@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import 'sassConfig';
+.name{
+    color: $a;
+}
+#name{
+    color: $a;
+    .cc{
+        color: red;
+    }
+}

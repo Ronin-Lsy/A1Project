@@ -1,0 +1,9 @@
+.name {
+  color: red; }
+
+#name {
+  color: red; }
+  #name .cc {
+    color: red; }
+
+/*# sourceMappingURL=common.css.map */
